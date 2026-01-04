@@ -1,7 +1,8 @@
 export const heroContent = {
   title: "Comprehensive Dental Solutions Under One Roof",
-  description: "From preventive care to advanced procedures, DENVA offers a complete suite of dental treatments, each performed with cutting-edge technology and the promise of comfort.",
-  imageUrl: "https://lh3.googleusercontent.com/aida-public/AB6AXuChZl8AnDxZPlT-3zWNJ5Rrs2BRJbG9nNPK7o9VDJ385mzqDvqqvontrBiLl4nRY3Z7FzYloCnbcpDQLK1Qt25OdvcN-ltWB_NFf7IrjbBfJI0wJnUtvp8Mj_KEy8rWYfKDMnnIT0FWOWm4dFd4_0Bw-D2UIFYb_SR6b738pFQNA5X02yucv0DRqXbXjEhkQJxRsNr2BExECnG86MqIB3SEX091tuyf0DXhE995cLUBI3FlV_YywNGjkeYiWW1XQteyei7JVjAWAGAW",
+  description:
+    "From preventive care to advanced procedures, DENVA offers a complete suite of dental treatments, each performed with cutting-edge technology and the promise of comfort.",
+  imageUrl: "images/room2.jpg",
 };
 
 export const treatmentCategories = [
@@ -107,5 +108,6 @@ export const advancedCare = {
 
 export const ctaContent = {
   title: "Ready for a healthier smile?",
-  description: "Book your consultation with our expert team today and experience world-class dental care.",
+  description:
+    "Book your consultation with our expert team today and experience world-class dental care.",
 };

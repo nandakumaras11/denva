@@ -4,7 +4,7 @@ export const navLinks = [
     { href: "/why-us", label: "Why Us" },
     { href: "/treatments", label: "Our Treatments" },
     { href: "/doctors", label: "Our Doctors" },
-    { href: "/contact", label: "Contact Us" },
+    { href: "/contact-us", label: "Contact Us" },
 ];
 
 export const heroBanners = [
@@ -102,5 +102,5 @@ export const footerLinks = [
     { href: "/about", label: "About Us" },
     { href: "/doctors", label: "Our Doctors" },
     { href: "/treatments", label: "Our Treatments" },
-    { href: "/contact", label: "Contact Us" },
+    { href: "/contact-us", label: "Contact Us" },
 ];

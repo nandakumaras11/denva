@@ -6,6 +6,7 @@ import About from './pages/About';
 import Doctors from './pages/Doctors';
 import Treatments from './pages/Treatments';
 import WhyUs from './pages/WhyUs';
+import ContactPage from './pages/ContactPage';
 import './App.css';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path="/doctors" element={<Doctors />} />
         <Route path="/treatments" element={<Treatments />} />
         <Route path="/why-us" element={<WhyUs />} />
+        <Route path="/contact-us" element={<ContactPage />} />
         {/* Add other routes here as needed */}
       </Routes>
       <Footer />
