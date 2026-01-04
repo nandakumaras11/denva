@@ -3,6 +3,9 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import About from './pages/About';
+import Doctors from './pages/Doctors';
+import Treatments from './pages/Treatments';
+import WhyUs from './pages/WhyUs';
 import './App.css';
 
 function App() {
@@ -12,6 +15,9 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
+        <Route path="/doctors" element={<Doctors />} />
+        <Route path="/treatments" element={<Treatments />} />
+        <Route path="/why-us" element={<WhyUs />} />
         {/* Add other routes here as needed */}
       </Routes>
       <Footer />
